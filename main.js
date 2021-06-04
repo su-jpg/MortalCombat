@@ -8,7 +8,7 @@ const player1 = {
   }
 };
 
-function createPlayer(){
+function createPlayer1(){
 
   const div1 = document.createElement('div');
   div1.classList.add('player1');
